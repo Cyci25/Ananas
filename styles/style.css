@@ -1,0 +1,84 @@
+body{
+    font-family: 'Abril Fatface', cursive;
+}
+.play{
+    background-color: blue;
+    position: relative;
+    width: 100%  ;
+    height: auto;
+    min-height: 15rem;
+    padding: 15rem 0;
+    background-position: center;
+    background-repeat: no-repeat;
+    background-attachment: scroll;
+    background-size: cover;
+    margin: 0%;
+}
+.play1{
+    background-color: orangered;
+    position: relative;
+    width: 100%  ;
+    height: auto;
+    min-height: 15rem;
+    padding: 15rem 0;
+    background-position: center;
+    background-repeat: no-repeat;
+    background-attachment: scroll;
+    background-size: cover;
+    margin: 0%;
+}
+.play2{
+    background-color: yellow;
+    position: relative;
+    width: 100%  ;
+    height: auto;
+    min-height: 15rem;
+    padding: 15rem 0;
+    background-position: center;
+    background-repeat: no-repeat;
+    background-attachment: scroll;
+    background-size: cover;
+    margin: 0%;
+}
+.play3{
+    background-color: green;
+    position: relative;
+    width: 100%  ;
+    height: auto;
+    min-height: 15rem;
+    padding: 15rem 0;
+    background-position: center;
+    background-repeat: no-repeat;
+    background-attachment: scroll;
+    background-size: cover;
+    margin: 0%;
+}
+.play4{
+    background-color: red;
+    position: relative;
+    width: 100%  ;
+    height: auto;
+    min-height: 15rem;
+    padding: 15rem 0;
+    background-position: center;
+    background-repeat: no-repeat;
+    background-attachment: scroll;
+    background-size: cover;
+    margin: 0%;
+}
+.play5{
+    background-color: aqua;
+    position: relative;
+    width: 100%  ;
+    height: auto;
+    min-height: 15rem;
+    padding: 15rem 0;
+    background-position: center;
+    background-repeat: no-repeat;
+    background-attachment: scroll;
+    background-size: cover;
+    margin: 0%;
+}
+table, td, th {
+    border: 1px solid black;
+  } 
